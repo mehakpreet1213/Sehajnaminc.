@@ -328,6 +328,67 @@ h6, .h6 {
   font-size: 1.25rem;
   font-weight: 300; }
 
+.wrapper{
+  margin: 150px auto;
+  width: 70%;
+}
+.text-box{
+  color: #000;
+  justify-content: left;
+  text-align: left;
+}
+.text-box{
+  font-size: 20px;
+}
+.text-box p{
+  font-size: 16px;
+}
+img{
+  max-width: 600px;
+  float: right;
+  border: 3px solid #ced9d4;
+  border-radius: 10px;
+  width: 100%;
+  height: auto;
+  margin: right 15px; ;
+}
+
+.wrapper-2{
+  margin: 150px auto;
+  width: 70%;
+}
+.text-box2{
+  color:#000;
+  justify-content: right;
+  text-align: right;
+}
+.text-box-2{
+  font-size: 20px;
+}
+.text-box p{
+  font-size: 16px;
+}
+.img2{
+  max-width: 600px;
+  float: left;
+  border: 3px solid #ced9d4;
+  border-radius: 10px;
+  margin: left 150px; ;
+  width: 100%;
+  height: auto;
+}
+.img-3{
+  max-width: 900px;
+  float:right;
+  border-radius: 10px;
+  width: 100%;
+  height: auto;
+  margin: right 150px; ;
+  text-align: right;
+}
+
+
+
 .display-1 {
   font-size: 6rem;
   font-weight: 300;
@@ -9970,5 +10031,7 @@ textarea.form-control {
       text-size-adjust: 400%;
       text-align:right;
     }
+
+
     
   
